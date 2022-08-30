@@ -1,0 +1,9 @@
+{
+    "name": "짭파고",
+    "description": "change background color",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup" : "index.html"
+    }
+}
